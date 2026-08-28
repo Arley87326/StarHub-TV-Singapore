@@ -5,259 +5,259 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
 #EXTINF:-1 tvg-id="101" tvg-chno="101" ch-number="101" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png",Preview Channel
-https://ucdn.starhubgo.com/bpk-tv/Preview/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Preview/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
 #EXTINF:-1 tvg-id="102" tvg-chno="102" ch-number="102" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5
-https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH5_DASH/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_CH5_DASH/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab098604d411c9685dfd4c8ba5d96:5a6710bd5212d46a48083ffcb871cd20
 #EXTINF:-1 tvg-id="103" tvg-chno="103" ch-number="103" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8
-https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH8_DASH/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_CH8_DASH/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6347d18bc19a475194eb5651208254f7:8b85be95bf378e6fa552f5eca1f05d8b
 #EXTINF:-1 tvg-id="104" tvg-chno="104" ch-number="104" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria
-https://ucdn.starhubgo.com/bpk-tv/Mediacorp_Suria_DASH/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_Suria_DASH/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
 #EXTINF:-1 tvg-id="105" tvg-chno="105" ch-number="105" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham
-https://ucdn.starhubgo.com/bpk-tv/VasanthamHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/VasanthamHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cd1bb6763c04f26970ebce1a2adbb69:b535f8e6892e06e28525b23563529409
 #EXTINF:-1 tvg-id="106" tvg-chno="106" ch-number="106" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
-https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CNA_DASH/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_CNA_DASH/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1f19f60c754e7da1973ccf8aefd255:d00c242fc75db48a900bbdd4ca428688
 #EXTINF:-1 tvg-id="107" tvg-chno="107" ch-number="107" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U
-https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CHU_DASH/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_CHU_DASH/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
 #EXTINF:-1 tvg-id="111" tvg-chno="111" ch-number="111" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png",Hub E City
-https://ucdn.starhubgo.com/bpk-tv/HubECityHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubECityHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa97b3bd1e64a4aa5eb9b42a7da036e:6d6f02aada98526dbf8191f70b0bff6b
 #EXTINF:-1 tvg-id="115" tvg-chno="115" ch-number="115" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png",Citra Entertainment
-https://ucdn.starhubgo.com/bpk-tv/CitraEntertainment/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/CitraEntertainment/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5f3a6256209f40028a2954d02f3de31d:15e506cc2530e5e7c0a71d5561dc4d02
 #EXTINF:-1 tvg-id="116" tvg-chno="116" ch-number="116" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png",Karisma
-https://ucdn.starhubgo.com/bpk-tv/Karisma/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Karisma/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
 #EXTINF:-1 tvg-id="118" tvg-chno="118" ch-number="118" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna
-https://ucdn.starhubgo.com/bpk-tv/Astro_warna_new/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Astro_warna_new/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
 #EXTINF:-1 tvg-id="123" tvg-chno="123" ch-number="123" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",Astro Sensasi
-https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubSensasiHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa2d5016af54ce5933c9034d5c21ddf:4cb6857673fb8f3adb6c620d134b8607
 #EXTINF:-1 tvg-id="125" tvg-chno="125" ch-number="125" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png",Zee TV
-https://ucdn.starhubgo.com/bpk-tv/ZeeTV/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/ZeeTV/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11638fd3d4294a00a06a96752386c974:1631bf2a7e1c01aa9be0777798cbacbc
 #EXTINF:-1 tvg-id="127" tvg-chno="127" ch-number="127" tvg-logo="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png",Sony Entertainment Television
-https://ucdn.starhubgo.com/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c85f99a0dfc43ec97f31d1887d0bf15:7746516d0361659ca71d8a8457764f9e
 #EXTINF:-1 tvg-id="128" tvg-chno="128" ch-number="128" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png",Colors
-https://ucdn.starhubgo.com/bpk-tv/COLORS/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/COLORS/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b063c7afa634cd9b78852ccbb936fa2:5d5e5a474a56c88c63904446cdd3f123
 #EXTINF:-1 tvg-id="130" tvg-chno="130" ch-number="130" tvg-logo="https://poster.starhubgo.com/Linear_channels2/130_1920x1080_HTV.png",Zee Cinema
-https://ucdn.starhubgo.com/bpk-tv/ZeeCinema/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/ZeeCinema/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9d97a893d1c42a3ab865f0ea5f85d87:fe1f21eda73955bf58f01cf5449cb289
 #EXTINF:-1 tvg-id="131" tvg-chno="131" ch-number="131" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png",Sony Max
-https://ucdn.starhubgo.com/bpk-tv/SonyMAX/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/SonyMAX/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48fe2c0e229848eca6c540290d29be8d:449b22a83e46cf2f337bf71f5b2c3bd3
 #EXTINF:-1 tvg-id="132" tvg-chno="132" ch-number="132" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png",Colors Tamil
-https://ucdn.starhubgo.com/bpk-tv/COLORSTamilHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/COLORSTamilHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5261f30f630483e83ca4d5239cbd4b6:24704616ade384abae6cebc7e62c6c80
 #EXTINF:-1 tvg-id="133" tvg-chno="133" ch-number="133" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png",Sun TV
-https://ucdn.starhubgo.com/bpk-tv/SunTV/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/SunTV/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed89bf895a514836bc3235042b1cba80:804a3b2bbc0e9b3ba4db96889349e81b
 #EXTINF:-1 tvg-id="134" tvg-chno="134" ch-number="134" tvg-logo="https://poster.starhubgo.com/Linear_channels2/134_1920x1080_HTV.png",Sun Music
-https://ucdn.starhubgo.com/bpk-tv/SunMusic/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/SunMusic/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c496a02d46f544579384af6834469cd7:c32bb1120a1e9acc6ffbbca374f0a899
 #EXTINF:-1 tvg-id="135" tvg-chno="135" ch-number="135" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png",Vijay TV
-https://ucdn.starhubgo.com/bpk-tv/VijayTV/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/VijayTV/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c584a57a5edc44e1b9e58047019a6c95:14c86305c458b457a91affeffec3bcff
 #EXTINF:-1 tvg-id="137" tvg-chno="137" ch-number="137" tvg-logo="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png",Zee Thirai
-https://ucdn.starhubgo.com/bpk-tv/ZeeThirai/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/ZeeThirai/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47dde0640e614122a874b78be75ea286:e33fdb7f39f5322f14b82f4abdb192e2
 #EXTINF:-1 tvg-id="138" tvg-chno="138" ch-number="138" tvg-logo="https://poster.starhubgo.com/Linear_channels2/138_1920x1080_HTV.png",Zee Tamil
-https://ucdn.starhubgo.com/bpk-tv/ZeeTamil/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/ZeeTamil/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32233523503442728319f13e66eabe1d:9176ac4e76ce299db6e5d86dd7efac88
 #EXTINF:-1 tvg-id="139" tvg-chno="139" ch-number="139" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png",Asianet
-https://ucdn.starhubgo.com/bpk-tv/Asianet/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Asianet/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=edd61b87c5444c63a5f503e6f7cf3de3:e72283be311aa6c5175be86862d96eb3
 #EXTINF:-1 tvg-id="140" tvg-chno="140" ch-number="140" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png",Asianet Movies
-https://ucdn.starhubgo.com/bpk-tv/AsianetMov/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/AsianetMov/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb01414e3464af4a2683cf7847a2ab0:4faf90b7e72e099c871558754f23fa3a
 #EXTINF:-1 tvg-id="143" tvg-chno="143" ch-number="143" tvg-logo="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png",ANC
-https://ucdn.starhubgo.com/bpk-tv/ANC/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/ANC/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6953b6ee83a94ee6bf9bd3f9a0b41785:58568b1209a5c44b596af7ebd49029a4
 #EXTINF:-1 tvg-id="145" tvg-chno="145" ch-number="145" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png",Cinema One Global
-https://ucdn.starhubgo.com/bpk-tv/CinemaOne/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/CinemaOne/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7444d9d4f4c441e4a9636b4a06822d1e:95e1b9d523beca239ff7c5e74df5f652
 #EXTINF:-1 tvg-id="152" tvg-chno="152" ch-number="152" tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png",TV5Monde Asie
-https://ucdn.starhubgo.com/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab3236dbe1be474983feeaddc16be232:1a9c9159b431050742eabe21e37d12af
 #EXTINF:-1 tvg-id="153" tvg-chno="153" ch-number="153" tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png",DW English
-https://ucdn.starhubgo.com/bpk-tv/DW/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/DW/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
 #EXTINF:-1 tvg-id="201" tvg-chno="201" ch-number="201" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png",Hub Sports 1
-https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubSports1HDnew1/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
 #EXTINF:-1 tvg-id="202" tvg-chno="202" ch-number="202" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png",Hub Sports 2
-https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubSports2HD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
 #EXTINF:-1 tvg-id="203" tvg-chno="203" ch-number="203" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png",Hub Sports 3
-https://ucdn.starhubgo.com/bpk-tv/HubSports3HDNEW/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubSports3HDNEW/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 #EXTINF:-1 tvg-id="204" tvg-chno="204" ch-number="204" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png",Hub Sports 4
-https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
 #EXTINF:-1 tvg-id="205" tvg-chno="205" ch-number="205" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png",Hub Sports 5
-https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubSports5HD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
 #EXTINF:-1 tvg-id="206" tvg-chno="206" ch-number="206" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",Hub Sports 6
-https://ucdn.starhubgo.com/bpk-tv/HubSports6/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubSports6/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
 #EXTINF:-1 tvg-id="207" tvg-chno="207" ch-number="207" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png",Hub Sports 7
-https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubSports7/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
 #EXTINF:-1 tvg-id="208" tvg-chno="208" ch-number="208" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png",Hub Sports 8
-https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubSports8/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -313,63 +313,63 @@ https://shtvgo-prod.gcdn.co/bpk-tv/BeINSports5/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 #EXTINF:-1 tvg-id="221" tvg-chno="221" ch-number="221" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png",Hub Premier 1
-https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubPremier1/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
 #EXTINF:-1 tvg-id="222" tvg-chno="222" ch-number="222" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png",Hub Premier 2
-https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubPremier12/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
 #EXTINF:-1 tvg-id="223" tvg-chno="223" ch-number="223" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png",Hub Premier 3
-https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubPremier3/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
 #EXTINF:-1 tvg-id="224" tvg-chno="224" ch-number="224" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png",Hub Premier 4
-https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubPremier4/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
 #EXTINF:-1 tvg-id="225" tvg-chno="225" ch-number="225" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png",Hub Premier 5
-https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubPremier5/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
 #EXTINF:-1 tvg-id="226" tvg-chno="226" ch-number="226" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png",Hub Premier 6
-https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubPremier6/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
 #EXTINF:-1 tvg-id="228" tvg-chno="228" ch-number="228" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png",Hub Premier 8
-https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubPremier8/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
 #EXTINF:-1 tvg-id="251" tvg-chno="251" ch-number="251" tvg-logo="https://poster.starhubgo.com/Linear_channels2/251_1920x1080_HTV.png",FIFA World Cup Channel 1
-https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh1/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/FIFAWCCh1/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e947fce17d642db9c1a0c45bf718011:dd096e4212597bb1948a78e12490a2ef
 #EXTINF:-1 tvg-id="252" tvg-chno="252" ch-number="252" tvg-logo="https://poster.starhubgo.com/Linear_channels2/252_1920x1080_HTV.png",FIFA World Cup Channel 2
-https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh2/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/FIFAWCCh2/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -425,7 +425,7 @@ https://shtvgo-prod.gcdn.co/bpk-tv/HistoryHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cc82e4d16944e3680ecd7f798ad934a:efd9b267c84effe30cf80dd8e9f9d499
 #EXTINF:-1 tvg-id="403" tvg-chno="403" ch-number="403" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime+Investigation
-https://ucdn.starhubgo.com/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -446,7 +446,7 @@ https://shtvgo-prod.gcdn.co/bpk-tv/DiscoveryCh/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f73a324d13e14b51ae6576655c2646c2:eb2aeda95806929f93f744a3c1137458
 #EXTINF:-1 tvg-id="427" tvg-chno="427" ch-number="427" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png",Travelxp
-https://ucdn.starhubgo.com/bpk-tv/TravelxpHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/TravelxpHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -579,7 +579,7 @@ https://shtvgo-prod.gcdn.co/bpk-tv/SkyNewsHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a949912200ee45efb2f30d3260eb4eb1:d9ea6196758f70ad84123906b5fa218c
 #EXTINF:-1 tvg-id="704" tvg-chno="704" ch-number="704" tvg-logo="https://poster.starhubgo.com/Linear_channels2/704_1920x1080_HTV.png",Euronews English
-https://ucdn.starhubgo.com/bpk-tv/Euronews/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/Euronews/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -607,14 +607,14 @@ https://shtvgo-prod.gcdn.co/bpk-tv/CNNHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d5c64d3c8f464ea33d4ddee66ee13c:e515502bedb70262ea62e87d48e24f9c
 #EXTINF:-1 tvg-id="722" tvg-chno="722" ch-number="722" tvg-logo="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png",CGTN
-https://ucdn.starhubgo.com/bpk-tv/CGTN/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/CGTN/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c5e648fc2a64499a9f5c112dc66a9c2:5fba156eab1ed43bbe1ca86018145e9d
 #EXTINF:-1 tvg-id="724" tvg-chno="724" ch-number="724" tvg-logo="https://poster.starhubgo.com/Linear_channels2/724_1920x1080_HTV.png",France 24
-https://ucdn.starhubgo.com/bpk-tv/France24/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/France24/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -628,42 +628,42 @@ https://shtvgo-prod.gcdn.co/bpk-tv/CCTV4/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
 #EXTINF:-1 tvg-id="805" tvg-chno="805" ch-number="805" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Phoenix Chinese Channel
-https://ucdn.starhubgo.com/bpk-tv/PCCHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/PCCHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cfb0befbe3e463b98b9e76e24be8111:6618e3ba4af28955d3312ac9f2ba03e1
 #EXTINF:-1 tvg-id="806" tvg-chno="806" ch-number="806" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png",Phoenix InfoNews Channel
-https://ucdn.starhubgo.com/bpk-tv/PINCHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/PINCHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
 #EXTINF:-1 tvg-id="808" tvg-chno="808" ch-number="808" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS News
-https://ucdn.starhubgo.com/bpk-tv/TVBSNews/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/TVBSNews/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62057e40fcd64088a7fb8ae537047af2:1a0c2df99e5048484b35835e9fcd7a0d
 #EXTINF:-1 tvg-id="812" tvg-chno="812" ch-number="812" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",NHK World
-https://ucdn.starhubgo.com/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebda46a0c57e4328bb81200709446b41:48f03c03ac2f800aea4b8b1a437bb083
 #EXTINF:-1 tvg-id="815" tvg-chno="815" ch-number="815" tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png",KBS World
-https://ucdn.starhubgo.com/bpk-tv/KBSWorldHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/KBSWorldHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
 #EXTINF:-1 tvg-id="817" tvg-chno="817" ch-number="817" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang
-https://ucdn.starhubgo.com/bpk-tv/ArirangTV/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/ArirangTV/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -677,49 +677,49 @@ https://shtvgo-prod.gcdn.co/bpk-tv/ONEHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8446bf3c61cb46e48efeb9303c98f651:274c6891982e220669ef82c1f6c1bde7
 #EXTINF:-1 tvg-id="825" tvg-chno="825" ch-number="825" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png",Hub E City
-https://ucdn.starhubgo.com/bpk-tv/HubECityHD825/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubECityHD825/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
 #EXTINF:-1 tvg-id="828" tvg-chno="828" ch-number="828" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png",TVBS Asia
-https://ucdn.starhubgo.com/bpk-tv/TVBSAsia/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/TVBSAsia/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc39dc63f3e84bceb6c5a59b058a5349:d0b825d0aeb64f1d4e4dba32ef2d907c
 #EXTINF:-1 tvg-id="832" tvg-chno="832" ch-number="832" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png",Dragon TV
-https://ucdn.starhubgo.com/bpk-tv/DragonTV/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/DragonTV/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
 #EXTINF:-1 tvg-id="838" tvg-chno="838" ch-number="838" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",TVB Jade
-https://ucdn.starhubgo.com/bpk-tv/TVBJadeHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/TVBJadeHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9712e0043af4a4e9e6b50fc304581c7:021e2862340e8956d8ce548af7ef0839
 #EXTINF:-1 tvg-id="855" tvg-chno="855" ch-number="855" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png",Hub VV Drama
-https://ucdn.starhubgo.com/bpk-tv/HubVVDramaHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HubVVDramaHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
 #EXTINF:-1 tvg-id="859" tvg-chno="859" ch-number="859" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png",TVB Xing He
-https://ucdn.starhubgo.com/bpk-tv/TVBXingHeChannel/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/TVBXingHeChannel/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
 #EXTINF:-1 tvg-id="868" tvg-chno="868" ch-number="868" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies
-https://ucdn.starhubgo.com/bpk-tv/CelestialMoviesHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/CelestialMoviesHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
