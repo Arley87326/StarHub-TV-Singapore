@@ -445,35 +445,35 @@ https://shtvgo-prod.gcdn.co/bpk-tv/DiscoveryCh/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f73a324d13e14b51ae6576655c2646c2:eb2aeda95806929f93f744a3c1137458
-#EXTINF:-1 tvg-id="427" tvg-chno="427" ch-number="427" group-title="Education & Lifetyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png",Travelxp
+#EXTINF:-1 tvg-id="427" tvg-chno="427" ch-number="427" group-title="Education & Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png",Travelxp
 https://shtvgo-prod.gcdn.co/bpk-tv/TravelxpHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=06bbd3e5972746be9307aff0ca171ef1:63d0ed83314277f18961f29fd7e90e03
-#EXTINF:-1 tvg-id="432" tvg-chno="432" ch-number="432" group-title="Education & Lifetyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
+#EXTINF:-1 tvg-id="432" tvg-chno="432" ch-number="432" group-title="Education & Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
 https://shtvgo-prod.gcdn.co/bpk-tv/BBCLifestyleHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1ac1cd0128240e18b68f337fe871b59:372c1435914f835639e2595c0670b0ed
-#EXTINF:-1 tvg-id="437" tvg-chno="437" ch-number="437" group-title="Education & Lifetyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png",HGTV
+#EXTINF:-1 tvg-id="437" tvg-chno="437" ch-number="437" group-title="Education & Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png",HGTV
 https://shtvgo-prod.gcdn.co/bpk-tv/HGTV/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9c09ade79141e39e25f18da05bee00:f805cca7aab475afeb9b55251e0f4302
-#EXTINF:-1 tvg-id="443" tvg-chno="443" ch-number="443" group-title="Education & Lifetyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png",FashionTV
+#EXTINF:-1 tvg-id="443" tvg-chno="443" ch-number="443" group-title="Education & Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png",FashionTV
 https://shtvgo-prod.gcdn.co/bpk-tv/FashionTV/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
-#EXTINF:-1 tvg-id="447" tvg-chno="447" ch-number="447" group-title="Education & Lifetyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia
+#EXTINF:-1 tvg-id="447" tvg-chno="447" ch-number="447" group-title="Education & Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia
 https://shtvgo-prod.gcdn.co/bpk-tv/ABCAustraila/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
