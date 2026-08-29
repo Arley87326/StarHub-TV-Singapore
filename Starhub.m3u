@@ -165,7 +165,7 @@ https://shtvgo-prod.gcdn.co/bpk-tv/ZeeTamil/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32233523503442728319f13e66eabe1d:9176ac4e76ce299db6e5d86dd7efac88
-#EXTINF:-1 tvg-id="139" tvg-chno="139" ch-number="139" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png",Asianet
+#EXTINF:-1 tvg-id="139" tvg-chno="139" ch-number="139" group-title="International/Ethnic" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png",Asianet
 https://shtvgo-prod.gcdn.co/bpk-tv/Asianet/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
