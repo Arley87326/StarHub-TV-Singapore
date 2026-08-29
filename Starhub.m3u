@@ -530,7 +530,7 @@ https://shtvgo-prod.gcdn.co/bpk-tv/HBOHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
 #EXTINF:-1 tvg-id="603" tvg-chno="603" ch-number="603" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
-https://shtvgo-prod.gcdn.co/bpk-tv/HBOSigantureHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HBOSignatureHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
