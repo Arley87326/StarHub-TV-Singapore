@@ -7,47 +7,29 @@
 #EXTINF:-1 tvg-id="101" tvg-chno="101" ch-number="101" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png",Preview Channel
 https://shtvgo-prod.gcdn.co/bpk-tv/Preview/output/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
-#EXTINF:-1 tvg-id="102" tvg-chno="102" ch-number="102" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5
-https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_CH5_DASH/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZILWV3bnk2QVloaDNTcnc5emwyS0UtbnBsTE1LdVNKOHd2dzVtOGNYZFlPYk1ZSHZrMG9pZThBMVI1elI5QmhHVUtDd2M0SWxwTDZhQXJBMVQxMlVLczE0QWR4TzBIcUpDMjBTVkhhTXQwTE8zcFF5VHpydWtYZHpuVXJGS09yV3ZtcGFXRWNhaXMzS3Y0UEhKLWM5bFdib0pDQzB1VjVKTmRSMUJKWmdYZGdsTDB4bXRQRlVuck9zVlZSRmhzWVlTX1JtRnlrOUFHcVlhc3hrRllJZFlTY1pnd3ozQnltSnpiUmpEbXRsMWJjQ2pBX1JYelJRcFhkU0NvNy1wWmZIcWhWSzhwYUVyUHNZNVI1blk2Zm1KUUhZRlYtajFnUGdhREh4Wmtsa3Jrc2lwNXNMQi1WV2s0WG9NMHo3MlVCSVY0SUpvRV9VV29BNHBBN1h1MjVkXzA9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSC1ld255NkFZaGgzU3J3OXpsMktFLW5wbExNS3VTSjh3dnc1bThjWGRZT2JNWUh2azBvaWU4QTFSNXpSOUJoR1VLQ3djNElscEw2YUFyQTFUMTJVS3MxNEFkeE8wSHFKQzIwU1ZIYU10MExPM3BReVR6cnVrWGR6blVyRktPcld2bXBhV0VjYWlzM0t2NFBISi1jOWxXYm9KQ0MwdVY1Sk5kUjFCSlpnWGRnbEwweG10UEZVbnJPc1ZWUkZoc1lZU19SbUZ5azlBR3FZYXN4a0ZZSWRZU2NaZ3d6M0J5bUp6YlJqRG10bDFiY0NqQV9SWHpSUXBYZFNDbzctcFpmSHFoVks4cGFFclBzWTVSNW5ZNmZtSlFIWUZWLWoxZ1BnYURIeFprbGtya3NpcDVzTEItVldrNFhvTTB6NzJVQklWNElKb0VfVVdvQTRwQTdYdTI1ZF8wPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=1qeHwS5RmK0xcRpWFwEUptjG1UI%3d
+#EXTINF:-1 group-title="Kids" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab098604d411c9685dfd4c8ba5d96:5a6710bd5212d46a48083ffcb871cd20
 #EXTINF:-1 tvg-id="103" tvg-chno="103" ch-number="103" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8
-https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_CH8_DASH/output/manifest.mpd
+https://cdn.qd.je/163189/ch8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6347d18bc19a475194eb5651208254f7:8b85be95bf378e6fa552f5eca1f05d8b
-#EXTINF:-1 tvg-id="104" tvg-chno="104" ch-number="104" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria
-https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_Suria_DASH/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNT3RSRERFZjdFc1JuR0JzWWdaVTUyVUlDeFVYblNQekZnamZtMUhUYXlUTFQxamRHNGk2MkcwbE5BS2o4Nk9tN1N2S1ZvaEI1SWZFY1lxMERuZUtCckNVOG43dExEajJuQTY4UGNlNHZLVmR5R1pyeXNtbjRQSUlMZTVaWVdvV3dXNlp1dWdDSlZzZTNfbC1LRkYtcDEzWXA2MXI4cHJLaTh3MmZXQjVzVEluQ2VxNHZvVVpiQ3B2NUhWVXFGZUxiQnZLbGlsTk9CRE12VXhKT2lGZGkxVTBXbVZEUDZtaU4xcGhVLTFkdmNfV18yWTNGcm9rVHZaMS04V29HMFZzck9pTS1zc0UyZVlrR04yT1JSYnJzcVpreDZmaTcxakozeEMzaGU4c0NiZElqTGR0S0xGbW95allRVzRSUzFXeWlwb2pLcWR3V2F0dEQ2akJnSm05Mzg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZNT3RSRERFZjdFc1JuR0JzWWdaVTUyVUlDeFVYblNQekZnamZtMUhUYXlUTFQxamRHNGk2MkcwbE5BS2o4Nk9tN1N2S1ZvaEI1SWZFY1lxMERuZUtCckNVOG43dExEajJuQTY4UGNlNHZLVmR5R1pyeXNtbjRQSUlMZTVaWVdvV3dXNlp1dWdDSlZzZTNfbC1LRkYtcDEzWXA2MXI4cHJLaTh3MmZXQjVzVEluQ2VxNHZvVVpiQ3B2NUhWVXFGZUxiQnZLbGlsTk9CRE12VXhKT2lGZGkxVTBXbVZEUDZtaU4xcGhVLTFkdmNfV18yWTNGcm9rVHZaMS04V29HMFZzck9pTS1zc0UyZVlrR04yT1JSYnJzcVpreDZmaTcxakozeEMzaGU4c0NiZElqTGR0S0xGbW95allRVzRSUzFXeWlwb2pLcWR3V2F0dEQ2akJnSm05Mzg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=hynKL11WSEr7Uzg8UdgJYrA8t10%3d
+#EXTINF:-1 group-title="Entertainment" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
-#EXTINF:-1 tvg-id="105" tvg-chno="105" ch-number="105" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham
-https://shtvgo-prod.gcdn.co/bpk-tv/VasanthamHD/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFVXR6ZWNYajNtcWJsUlQzbmZYeE1NUkNaYk9iWGNJSGdQdk9BQ2ZFaDNTbUYyRkYxQTNGblRvUGtoVnpPRnotcEh6OXI5X25OZ0F0OWY5VWZnMnA2NjRENzlaLUVUTkZsV1NxOVQ4OFR0OVVVWXotUnV0ZHRUZzVFX1JDWjA2Z3NMa2cxNWRpZkoybGdYWWZYRkwxZFNnX1VpbXJGR3YxaGdLN0lLYlFaYjFfdkxfdExGUHVrV3pKY0cxV3pjaG1TbHBYQzJTeF9OSGtPNGtNajI1NFViX2NLRHV5QV9lVmR3cEZVN01hNmowS29UejRZRG82a2lWZHA5cng3VmtyakEtenN3YjRDZGNNMm1paFRLQXN0V095WHAtRllDbnJmMzFPZVRfN2xMS3l1VjBLNld5ZFMtT1AzaFBHRkRBQmNZencxUVBDXy1UX2xyc1UyRjVxWXc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwOCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRVV0emVjWGozbXFibFJUM25mWHhNTVJDWmJPYlhjSUhnUHZPQUNmRWgzU21GMkZGMUEzRm5Ub1BraFZ6T0Z6LXBIejlyOV9uTmdBdDlmOVVmZzJwNjY0RDc5Wi1FVE5GbFdTcTlUODhUdDlVVVl6LVJ1dGR0VGc1RV9SQ1owNmdzTGtnMTVkaWZKMmxnWFlmWEZMMWRTZ19VaW1yRkd2MWhnSzdJS2JRWmIxX3ZMX3RMRlB1a1d6SmNHMVd6Y2htU2xwWEMyU3hfTkhrTzRrTWoyNTRVYl9jS0R1eUFfZVZkd3BGVTdNYTZqMEtvVHo0WURvNmtpVmRwOXJ4N1ZrcmpBLXpzd2I0Q2RjTTJtaWhUS0FzdFdPeVhwLUZZQ25yZjMxT2VUXzdsTEt5dVYwSzZXeWRTLU9QM2hQR0ZEQUJjWXp3MVFQQ18tVF9scnNVMkY1cVl3PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=7lgeo84xIQ%2bBV9G%2b6URwvyqT4CI%3d
+#EXTINF:-1 group-title="Entertainment" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7cd1bb6763c04f26970ebce1a2adbb69:b535f8e6892e06e28525b23563529409
 #EXTINF:-1 tvg-id="106" tvg-chno="106" ch-number="106" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
-https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_CNA_DASH/output/manifest.mpd
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b1f19f60c754e7da1973ccf8aefd255:d00c242fc75db48a900bbdd4ca428688
 #EXTINF:-1 tvg-id="107" tvg-chno="107" ch-number="107" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U
-https://shtvgo-prod.gcdn.co/bpk-tv/Mediacorp_CHU_DASH/output/manifest.mpd
+https://cdn.qd.je/163189/chu
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
