@@ -456,7 +456,7 @@ https://shtvgo-prod.gcdn.co/bpk-tv/FashionTV/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
 #EXTINF:-1 tvg-id="447" tvg-chno="447" ch-number="447" group-title="Education & Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia
-https://shtvgo-prod.gcdn.co/bpk-tv/ABCAustraila/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/ABCAustralia/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
