@@ -1,0 +1,5 @@
+# Static site: serves Starhub.m3u directly from the repository root.
+[build]
+  base = ""
+  publish = "."
+  command = ""
