@@ -1,10 +1,10 @@
-# Static site: serves Starhub.m3u directly from the repository root.
-# Settings here override the Netlify UI, which pointed at non-existent
-# directories (publish "public", functions "netlify/app").
+# Static site: serves Starhub.m3u from the "public" directory.
+# The Netlify UI is configured to publish "public", so that directory is kept
+# in the repo (via public/.gitkeep) and the build copies the playlist into it.
+# Starhub.m3u stays at the repo root so existing raw GitHub links keep working.
 [build]
-  base = ""
-  publish = "."
-  command = ""
+  publish = "public"
+  command = "mkdir -p public && cp Starhub.m3u public/"
 
 [functions]
   directory = "netlify/functions"
