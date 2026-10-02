@@ -1,5 +1,10 @@
 # Static site: serves Starhub.m3u directly from the repository root.
+# Settings here override the Netlify UI, which pointed at non-existent
+# directories (publish "public", functions "netlify/app").
 [build]
   base = ""
   publish = "."
   command = ""
+
+[functions]
+  directory = "netlify/functions"
